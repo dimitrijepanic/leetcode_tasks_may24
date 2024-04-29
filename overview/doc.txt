@@ -1,0 +1,13 @@
+Important Algos
+1. UnionFind
+2. TopSort
+3. Djikstra
+4. Merge-Sort
+5. Count-Sort
+6. n & (n-1)
+7. Trie
+8. Quick Sort
+9. Priority Queue
+10. Dequeue
+11. Rerooting DP - "do something for every root" - https://leetcode.com/problems/sum-of-distances-in-tree/solutions/5082404/reroot-dp-dfs-c-with-explain/?envType=daily-question&envId=2024-04-28
+
